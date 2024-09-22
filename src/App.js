@@ -32,7 +32,7 @@ function App() {
 
           <h1>Education</h1>
           <p>
-Bachelor of Information Technology University of the Assumption San Fernando Philippines 2022-present
+Bachelor of Information and Technology University of the Assumption San Fernando Philippines 2022-present
           </p>
 
           <h1>Skills</h1>
