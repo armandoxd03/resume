@@ -10,7 +10,7 @@ function App() {
   
         <div className="Content">
           <div className="Contact">
-            <h1>Contact</h1>
+            <h1>CONTACT</h1>
            <section> <a href="mailto:johnroyducut04@gmail.com">johnroyducut04@gmail.com
             <span className="material-icons gray-icon">email</span></a></section>
 
@@ -30,12 +30,12 @@ function App() {
           <section><a href="https://x.com/Armandox_03" target="_blank" rel="noopener noreferrer">@Armandox_03 <i class="fa-brands fa-twitter gray-icon"></i></a> </section>          
 
 
-          <h1>Education</h1>
+          <h1>EDUCATION</h1>
           <p>
 Bachelor of Information and Technology University of the Assumption San Fernando Philippines 2022-present
           </p>
 
-          <h1>Skills</h1>
+          <h1>SKILLS</h1>
           <ul>
             <li>Python</li>
             <li>Javascript</li>
